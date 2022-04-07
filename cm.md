@@ -33,3 +33,30 @@ let numbers = [0, 1, 2, 5, 10];
 let cube = map(f,numbers);
 console.log(cube);
 ```
+---
+## Skill
+---
+* Html5
+* Css
+* Responsive Design
+* JavaScript
+* React Basic
+* Figma(for web development)
+* Editors: VSCode
+
+---
+## Languages
+---
+* English - c1
+* Russian - b1  
+
+---
+## Education
+---
+* Geolab Javascript Course(2021-2022) -JavaScript / React (still on it)
+* Georgian Technical University Informatics and Control Systems
+
+---
+# Experience
+---
+* Mini projects for apliactions
