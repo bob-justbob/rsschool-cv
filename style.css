@@ -171,3 +171,42 @@ p {
   .css {width: 80%; background-color: #2196F3;}
   .js {width: 50%; background-color: #f44336;}
   .php {width: 50%; background-color: #808080;}
+
+.codeExampl{
+    height: 50vh;
+    width: 50%;
+    box-shadow: 5px 0 10px rgba(6, 11, 8, 0.857);
+    margin: 5vh;
+}
+pre {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    background-color: white;
+    font-size: 20px;
+    box-shadow: 5px 0 10px rgba(6, 11, 8, 0.857);
+}
+
+code {
+    width: 100%;
+}
+
+.languages {
+    height: 30vh;
+    width: 50%;
+    box-shadow: 5px 0 10px rgba(6, 11, 8, 0.857);
+    margin: 5vh;
+    color: white;
+    background-color: rgba(41, 91, 69, 0.88);
+}
+
+.languages h2 {
+    margin: 5vh;
+}
+
+
+.languages h3 {
+    margin: 2vh;
+}
